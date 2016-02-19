@@ -1,0 +1,22 @@
+{
+    "relationships": [
+        {
+            "relationshipId": 1,
+            "relationshipName": "author",
+            "otherEntityName": "author",
+            "relationshipType": "many-to-one",
+            "otherEntityField": "name"
+        }
+    ],
+    "fields": [
+        {
+            "fieldId": 1,
+            "fieldName": "title",
+            "fieldType": "String"
+        }
+    ],
+    "changelogDate": "20160219062010",
+    "dto": "no",
+    "service": "serviceImpl",
+    "pagination": "no"
+}

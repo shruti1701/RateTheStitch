@@ -1,0 +1,22 @@
+{
+  "generator-jhipster": {
+    "baseName": "RateTheStitch",
+    "packageName": "com.ratethestitch",
+    "packageFolder": "com/ratethestitch",
+    "authenticationType": "oauth2",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "no",
+    "useSass": true,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "enableTranslation": true,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "9329e502eebbfe3501cdf4a279cf8896ca016f05",
+    "testFrameworks": []
+  }
+}
